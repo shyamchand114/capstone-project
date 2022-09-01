@@ -105,7 +105,7 @@ Tableau for Data visualization.
 
 # Analysis
 
-![](C:/Users/syamc/OneDrive/Desktop/cyclistic/cyclistic Images/avg Ride len by Month.png)
+![fig.]("C:/Users/syamc/OneDrive/Desktop/cyclistic/cyclistic Images/avg Ride len by Month.png")
 
 
 
