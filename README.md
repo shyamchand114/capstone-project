@@ -109,6 +109,23 @@ Tableau for Data visualization.
 
 ![2](https://user-images.githubusercontent.com/106597804/187942501-3835eb33-5805-4907-bd67-26480569cf68.png)
 
+![bike type](https://user-images.githubusercontent.com/106597804/187942814-e45f09a4-40ed-4b75-b56f-18999679b8d1.png)
+
+![number of rides](https://user-images.githubusercontent.com/106597804/187943066-c195341e-37e3-4a24-84d8-e15cbb6df04d.png)
+
+![avg Ride len by Month](https://user-images.githubusercontent.com/106597804/187943231-e710e47e-c0a0-4157-a1c6-c04428688300.png)
+
+![weekdays](https://user-images.githubusercontent.com/106597804/187943324-be2fb490-23f9-4561-9128-d2bca6f70cd8.png)
+
+![hour](https://user-images.githubusercontent.com/106597804/187943416-087f2eb8-81df-4d87-9b4e-a70cfde2d7cf.png)
+
+![top start c](https://user-images.githubusercontent.com/106597804/187943533-e69c7a3f-dd5f-4771-87a8-00897317b8d8.png)
+
+![top start m](https://user-images.githubusercontent.com/106597804/187943611-b371cf98-e2f9-4296-8786-326a56ff38e3.png)
+
+![top end c](https://user-images.githubusercontent.com/106597804/187943694-0de0e9b6-f86a-4906-abf3-4f724ed35694.png)
+
+![top end m ](https://user-images.githubusercontent.com/106597804/187943916-f3d73d08-90a1-4429-8468-c32d6eaa26a6.png)
 
 
 
