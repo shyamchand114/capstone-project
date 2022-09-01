@@ -105,7 +105,7 @@ Tableau for Data visualization.
 
 # Analysis
 
-
+![user type](https://user-images.githubusercontent.com/106597804/187908321-46dd8a6b-0cba-4663-afc6-b7925fbeabeb.png)
 
 
 
