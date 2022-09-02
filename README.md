@@ -103,7 +103,7 @@ Tools such as R/Excel/spreadsheets/SQL are used for analysis.
 
 Tableau for Data visualization.
 
-# Analysis
+# Analysis & Visualization
 
 All these analysis and visualizations are done in Tableau Public, it can be view here (https://public.tableau.com/app/profile/shyam.chand.chenimeni?publish=yes) labelled as CYCLISTIC 1,2,3.....
 
@@ -135,18 +135,46 @@ On weekends (sat, sun) there are comparatively more number of rides and these ar
 
 The above graph shows clearly that casual users have the long ride length than the member users especially in the month of Jan there is a peak ride lengths.
 
+## 6. What is the average ride length by users on weekdays basis?
 ![weekdays](https://user-images.githubusercontent.com/106597804/187943324-be2fb490-23f9-4561-9128-d2bca6f70cd8.png)
 
+The above tree graph shows on sunday by casual users are the highest ride length and the Lowest ride length is by member user on tuesday.
+
+## 7. What is the average ride length by users on Hourly basis?
 ![hour](https://user-images.githubusercontent.com/106597804/187943416-087f2eb8-81df-4d87-9b4e-a70cfde2d7cf.png)
 
-![top start c](https://user-images.githubusercontent.com/106597804/187943533-e69c7a3f-dd5f-4771-87a8-00897317b8d8.png)
+The line graph shows that average ride length is increasing at 7Am to 11Am and from 10Pm to 2Am.
+And the member user avg ride length is almost linear and is ranges in between 10-15 km.
 
+## 8. What are top 20 start station name used by casual users?
+![top start c](https://user-images.githubusercontent.com/106597804/187943533-e69c7a3f-dd5f-4771-87a8-00897317b8d8.png)
+ 
+ The top start station used ny casual users is Streeter Dr & Grand ave
+
+## 9. What are top 20 start station name used by member users?
 ![top start m](https://user-images.githubusercontent.com/106597804/187943611-b371cf98-e2f9-4296-8786-326a56ff38e3.png)
 
+The top start station used by member user is KingsburySt & KInzie St
+
+## 10. What are top 20 end station name used by casual users?
 ![top end c](https://user-images.githubusercontent.com/106597804/187943694-0de0e9b6-f86a-4906-abf3-4f724ed35694.png)
 
+ The top end station used ny casual users is Streeter Dr & Grand ave
+ 
+## 11. What are top 20 end station name used by member users?
 ![top end m ](https://user-images.githubusercontent.com/106597804/187943916-f3d73d08-90a1-4429-8468-c32d6eaa26a6.png)
 
+The top end station used by member user is KingsburySt & KInzie St
+
+# Act (Recommentations)
+
+### Summary
+percentage of Casual riders are lower than Member riders. It clearly shows that Members users are taking more rides than casual users. But when we look at the average ride lengths taken by both users, In every aspect the casual users are make longer rides than the member users. Especially in weekdays the casual users are almost twice to the member users. so, there is a scope to change the casual users to member users.
+
+## Recommendations
+** Plan a direct maketing campaign in the top 5 Start Stations and top 5 End Stations used by casual users.
+** Create an app and highlight the benefits of Member users over casual users.
+** Use social media platforms to advertise the Brand and encourage new users.
 
 
 
