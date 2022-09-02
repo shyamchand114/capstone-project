@@ -105,10 +105,11 @@ Tableau for Data visualization.
 
 # Analysis
 
-## All these analysis and visualizations are done in Tableau Public, it can be view here (https://public.tableau.com/app/profile/shyam.chand.chenimeni?publish=yes) labelled as CYCLISTIC 1,2,3.....
+All these analysis and visualizations are done in Tableau Public, it can be view here (https://public.tableau.com/app/profile/shyam.chand.chenimeni?publish=yes) labelled as CYCLISTIC 1,2,3.....
 
 ## 1. Of the total users how many casual users and member users?
 ![1](https://user-images.githubusercontent.com/106597804/187942320-ed3c164a-3d8e-425d-b9bf-ec162d84815e.png)
+
 The above Pie_chart shows that there are total count of 4,548,829 users, of these 42.57% are casual useers and 57.43% are membership users. 
 It shows that there are having more member users than casual users.
 
