@@ -175,7 +175,8 @@ percentage of Casual riders are lower than Member riders. It clearly shows that 
 Plan a direct maketing campaign in the top 5 Start Stations and top 5 End Stations used by casual users.
 
 Create an app and highlight the benefits of Member users over casual users.
-**Use social media platforms to advertise the Brand and encourage new users.
+
+Use social media platforms to advertise the Brand and encourage new users.
 
 
 
