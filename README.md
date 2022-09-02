@@ -172,9 +172,10 @@ The top end station used by member user is KingsburySt & KInzie St
 percentage of Casual riders are lower than Member riders. It clearly shows that Members users are taking more rides than casual users. But when we look at the average ride lengths taken by both users, In every aspect the casual users are make longer rides than the member users. Especially in weekdays the casual users are almost twice to the member users. so, there is a scope to change the casual users to member users.
 
 ## Recommendations
-** Plan a direct maketing campaign in the top 5 Start Stations and top 5 End Stations used by casual users.
-** Create an app and highlight the benefits of Member users over casual users.
-** Use social media platforms to advertise the Brand and encourage new users.
+Plan a direct maketing campaign in the top 5 Start Stations and top 5 End Stations used by casual users.
+
+Create an app and highlight the benefits of Member users over casual users.
+**Use social media platforms to advertise the Brand and encourage new users.
 
 
 
