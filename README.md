@@ -114,14 +114,26 @@ The above Pie_chart shows that there are total count of 4,548,829 users, of thes
 It shows that there are having more member users than casual users.
 
 
-## 2.
+## 2. what is the average Ride length by user?
 ![2](https://user-images.githubusercontent.com/106597804/187942501-3835eb33-5805-4907-bd67-26480569cf68.png)
 
+Eventhough there are more member users the Average length by casual users is apperantley more than member users.
+
+## 3. Which bike type they are using the most?
 ![bike type](https://user-images.githubusercontent.com/106597804/187942814-e45f09a4-40ed-4b75-b56f-18999679b8d1.png)
 
+There are 3 types of bikes i.e., classic, electric and docked. 
+Here we can find that average ride length by docked bikes is more and these bikes are used only by casual users.
+
+## 4. How many rides my each members on everyday?
 ![number of rides](https://user-images.githubusercontent.com/106597804/187943066-c195341e-37e3-4a24-84d8-e15cbb6df04d.png)
 
+On weekends (sat, sun) there are comparatively more number of rides and these are mostly used by casual users.
+
+## 5. What is the average ride length by users on monthly basis?
 ![avg Ride len by Month](https://user-images.githubusercontent.com/106597804/187943231-e710e47e-c0a0-4157-a1c6-c04428688300.png)
+
+The above graph shows clearly that casual users have the long ride length than the member users especially in the month of Jan there is a peak ride lengths.
 
 ![weekdays](https://user-images.githubusercontent.com/106597804/187943324-be2fb490-23f9-4561-9128-d2bca6f70cd8.png)
 
