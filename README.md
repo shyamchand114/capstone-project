@@ -105,7 +105,10 @@ Tableau for Data visualization.
 
 # Analysis
 
+## All these analysis and visualizations are done in Tableau Public, it can be view here (https://public.tableau.com/app/profile/shyam.chand.chenimeni?publish=yes) labelled as Cycclistic 1,2,3.....
+
 ![1](https://user-images.githubusercontent.com/106597804/187942320-ed3c164a-3d8e-425d-b9bf-ec162d84815e.png)
+
 
 ![2](https://user-images.githubusercontent.com/106597804/187942501-3835eb33-5805-4907-bd67-26480569cf68.png)
 
